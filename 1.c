@@ -6,6 +6,7 @@ Arif was excellent in mathematics.
 One day Arif had a computer class and his computer teacher asked him to create a programming logic for the mathematics problem of multiplying two numbers of type float.
 */
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
     float val1,val2,outcome;
