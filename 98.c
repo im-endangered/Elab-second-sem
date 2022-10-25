@@ -20,5 +20,5 @@ int main()
     if(serverstatuscode==403) printf("FORBIDDEN");
     if(serverstatuscode==404) printf("NOT FOUND");
     if(serverstatuscode==500) printf("INTERNAL SERVER ERROR");
-	return 0;
+    return 0;
 }
