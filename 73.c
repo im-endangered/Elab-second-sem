@@ -4,9 +4,7 @@ A sequence a is a subsequence of an array b if a can be obtained from b by delet
 increasing order.
 */
 #include <stdio.h>
-int hi(){
-    return 0;
-}int check(int *a,int n){
+int check(int *a,int n){
     int i,j,c=1;
     for(i=1;i<n;i++){
         for(j=0;j<i;j++){
