@@ -15,7 +15,6 @@ int main()
         printf(">");
     else if (number1 < number2)
         printf("<");
-    else
-        printf("=");
+    else  printf("=");
     return 0;
 }
